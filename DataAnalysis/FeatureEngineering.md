@@ -30,6 +30,8 @@
 <hr>
 
 ## Feature Engineering 처리
+![image](https://user-images.githubusercontent.com/22341383/132354360-5908cb4a-15a7-4ec7-9f1d-5720539a3514.png)
+
 <hr>
 
 ## 관점에 따른 Feature 분류
